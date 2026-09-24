@@ -1,0 +1,7 @@
+streamlite 
+tenserflow
+pandas
+numpy
+
+
+

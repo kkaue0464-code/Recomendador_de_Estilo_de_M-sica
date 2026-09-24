@@ -1,4 +1,4 @@
-streamlite 
+streamlit
 tenserflow
 pandas
 numpy
